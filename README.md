@@ -5,7 +5,7 @@
 Futuro desarrollador de software y fan de la tecnología. Combino mi formación en DAM con conceptos de biología y otras ciencias.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/no%C3%A9-santaluc%C3%ADa-1a2812333/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noe.sabro@gmail.com)
+
 
 ---
 
