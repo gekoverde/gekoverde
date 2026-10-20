@@ -69,5 +69,3 @@ Futuro desarrollador de software y fan de la tecnología. Combino mi formación 
 `Comunicación asertiva` · `Pensamiento crítico` · `Lógica` · `Curiosidad` · `Adaptabilidad` · `Compromiso` · `Gestión del tiempo`
 
 ---
-
-📫 ¿Hablamos? Escríbeme a [noe.sabro@gmail.com](mailto:noe.sabro@gmail.com)
